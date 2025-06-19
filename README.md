@@ -18,10 +18,9 @@ Knowledge-Transfer-Agent/
 ├── data/                  # 数据存放
 │   ├── conceptnet/
 │   └── dbpedia/
-│
-```
 ├── configs/
 │   └── config.yaml
 │
 ├── main.py                # 项目入口
 └── requirements.txt
+```
